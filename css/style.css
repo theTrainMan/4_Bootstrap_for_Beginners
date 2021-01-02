@@ -9,6 +9,12 @@ h2 {
     color: crimson;
 }
 
-.aside {
-    display: flex;
+.clr {
+    clear: both;
+}
+
+.block {
+    float: left;
+    width: 50%;
+    box-sizing: border-box;
 }
