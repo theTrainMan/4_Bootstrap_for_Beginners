@@ -1,0 +1,10 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #f3f7fc;
+}
+
+h2 {
+    color: crimson;
+}
