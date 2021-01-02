@@ -6,7 +6,17 @@ body {
 }
 
 h2 {
-    color: crimson;
+    color: #dc143c;
+}
+
+h3 {
+    color: #ff8c00;
+    background-color: darkslategray;
+}
+
+h4 {
+    color: #ff00ff;
+    background-color: #ffd700;
 }
 
 .clr {
