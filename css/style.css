@@ -32,3 +32,10 @@ h2 {
     box-sizing: border-box;
     padding-right: 15px;
 }
+
+.block-3 {
+    float: left;
+    width: 50%;
+    box-sizing: border-box;
+    padding-right: 15px;
+}
